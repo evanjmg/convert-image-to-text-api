@@ -1,5 +1,5 @@
 {
-  "name": "ocr-image",
+  "name": "ocr-image-api",
   "version": "1.0.0",
   "description": "A api for ocr",
   "main": "index.js",
