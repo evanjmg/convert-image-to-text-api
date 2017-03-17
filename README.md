@@ -19,4 +19,4 @@ with the body {
 	file: 'data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAA..kJggg=='
 }
 
-convert your image to base64 here (https://www.base64-image.de/)[https://www.base64-image.de/] and just chuck it in the body above
+convert your image to base64 here https://www.base64-image.de/ and just chuck it in the body above
